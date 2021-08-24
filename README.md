@@ -7,6 +7,7 @@ this will not be maintained, prs accepted if someone else bothers
 
 i will not include autoupdater stuff, up to you
 
+built using visual studio 2019, just clone it or smth.
 
 depends on [Polyhook 2.0 by stevemk14ebr](https://github.com/stevemk14ebr/PolyHook_2_0), install using vcpkg using the x64-windows-static triplet
 
