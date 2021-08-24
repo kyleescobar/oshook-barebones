@@ -12,7 +12,7 @@ depends on [Polyhook 2.0 by stevemk14ebr](https://github.com/stevemk14ebr/PolyHo
 
 credits:
 - [Pastor Jim aka. DikkePenisMan](https://guidedhacking.com/members/dikkepenisman.188482/) on GuidedHacking for misc related chit chat and small tidbits of info
-- Banana on rs-hacking discord for some info while discussing RS reversing.
+- girlboss or "Banana" on rs-hacking discord for some info while discussing RS reversing.
 - [Polar](https://www.rune-server.ee/members/polar/) of rune-server.ee and many other RS communities for being helpful with many RuneScape related oddities
 - Overall [rs-hacking](https://rs-hacking.com) community on discord for general runescape related information
 - KN4CK3R for [ReClass.NET](https://github.com/ReClassNET/ReClass.NET)
