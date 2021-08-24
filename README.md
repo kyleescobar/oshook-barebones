@@ -17,3 +17,5 @@ credits:
 - Overall [rs-hacking](https://rs-hacking.com) community on discord for general runescape related information
 - KN4CK3R for [ReClass.NET](https://github.com/ReClassNET/ReClass.NET)
 - stevemk14ebr for PolyHook2
+
+Licensed under the MIT license. So use as you wish but please attribute to this github repo or reversing.games if you do use it in your product, or feel like it deserves to be credited in your project.
