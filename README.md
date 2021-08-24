@@ -1,5 +1,5 @@
 # oshook-barebones
-a basic osrs steam version hook demoing some stuff
+a basic osrs steam version hack demoing some stuff
 
 for some insight in to reversing the game read my blog [Reversing Games](https://reversing.games)
 
