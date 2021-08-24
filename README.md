@@ -11,6 +11,14 @@ built using visual studio 2019, just clone it or smth.
 
 depends on [Polyhook 2.0 by stevemk14ebr](https://github.com/stevemk14ebr/PolyHook_2_0), install using vcpkg using the x64-windows-static triplet
 
+What's included:
+- World to screen
+- Performing game actions such as attacking monsters, interacting with interfaces etc.
+- NPC, Player, Ground item and world object iteration
+- Getting correct definitions for those things
+- Iterating item containers such as inventories, banks or stores
+- Highlighting game objects
+
 credits:
 - [Pastor Jim aka. DikkePenisMan](https://guidedhacking.com/members/dikkepenisman.188482/) on GuidedHacking for misc related chit chat and small tidbits of info
 - girlboss or "Banana" on rs-hacking discord for some info while discussing RS reversing.
